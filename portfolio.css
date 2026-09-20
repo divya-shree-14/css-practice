@@ -45,3 +45,10 @@ ul {
     list-style-position: inside;
     font-size: 18px;
 }
+h3 + p {
+    background-color: white;
+    width: 250px;
+    margin: 10px auto;
+    padding: 15px;
+    border-radius: 10px;
+}
