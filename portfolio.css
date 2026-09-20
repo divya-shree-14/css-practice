@@ -1,27 +1,47 @@
-body {
+ body {
     font-family: Arial, sans-serif;
     background-color: lightblue;
+    color: black;
     text-align: center;
-    padding: 30 px;
+    padding: 40 px;
 }
 
 h1 {
     color: darkblue;
+    font-size: 40 px;
+    margin-bottom: 10 px;
 }
 
 h2 {
     color: purple;
+    margin-bottom: 20 px;
+}
+
+p {
+    font-size: 18 px;
+    line-height: 1.6;
 }
 
 h3 {
     color: darkgreen;
+    margin-top: 30 px;
 }
 
 ul {
     list-style-position: inside;
     font-size: 18 px;
+    padding: 0;
 }
 
-p {
-    font-size: 18 px;
+li {
+    margin: 8 px;
+}
+ul {
+    background-color: white;
+    width: 250px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    list-style-position: inside;
+    font-size: 18px;
 }
