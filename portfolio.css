@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+    padding: 30 px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: darkgreen;
+}
+
+ul {
+    list-style-position: inside;
+    font-size: 18 px;
+}
+
+p {
+    font-size: 18 px;
+}
