@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+.box {
+    background-color: lightyellow;
+    border: 2px solid orange;
+    padding: 20px;
+}
